@@ -1,0 +1,89 @@
+sub_assembly_name,part_name,quantity,part_id,assembly_id
+drawer_unit_subassembly,Drawer Front,1,S-1074,A-1062
+drawer_unit_subassembly,Drawer Bottom,1,S-1075,A-1062
+drawer_unit_subassembly,Drawer Sides,2,S-1076,A-1062
+drawer_unit_subassembly,Drawer Back,1,S-1077,A-1062
+drawer_unit_subassembly,Drawer Rails,2,S-1078,A-1062
+drawer_unit_subassembly,Drawer Handle,1,S-1079,A-1062
+drawer_unit_subassembly,Screws,8,S-1080,A-1062
+drawers_subassembly,Drawer Front,1,S-1081,A-1070
+drawers_subassembly,Drawer Bottom,1,S-1082,A-1070
+drawers_subassembly,Drawer Sides,2,S-1083,A-1070
+drawers_subassembly,Drawer Back,1,S-1084,A-1070
+drawers_subassembly,Drawer Rails,2,S-1085,A-1070
+drawers_subassembly,Screws,8,S-1086,A-1070
+headboard_subassembly,Headboard Panel,1,S-1087,A-1048
+headboard_subassembly,Headboard Frame,1,S-1088,A-1048
+headboard_subassembly,Decorative Trim,1,S-1089,A-1048
+headboard_subassembly,Mounting Brackets,2,S-1090,A-1048
+headboard_subassembly,Screws,12,S-1091,A-1048
+seat_subassembly,Seat Base,1,S-1092,A-1037
+seat_subassembly,Foam Padding,1,S-1093,A-1037
+seat_subassembly,Fabric Cover,1,S-1094,A-1037
+seat_subassembly,Mounting Brackets,4,S-1095,A-1037
+seat_subassembly,Screws,8,S-1096,A-1037
+seat_cushion_subassembly,Foam Insert,1,S-1097,A-1010
+seat_cushion_subassembly,Cushion Cover,1,S-1098,A-1010
+seat_cushion_subassembly,Zipper,1,S-1099,A-1010
+seat_cushion_subassembly,Batting,1,S-1100,A-1010
+frame_subassembly,Base Frame,1,S-1101,A-1012
+frame_subassembly,Back Frame,1,S-1102,A-1012
+frame_subassembly,Side Frames,2,S-1103,A-1012
+frame_subassembly,Support Slats,12,S-1104,A-1012
+frame_subassembly,Corner Brackets,4,S-1105,A-1012
+frame_subassembly,Screws,32,S-1106,A-1012
+back_rest_subassembly,Back Panel,1,S-1107,A-1038
+back_rest_subassembly,Foam Padding,1,S-1108,A-1038
+back_rest_subassembly,Fabric Cover,1,S-1109,A-1038
+back_rest_subassembly,Support Frame,1,S-1110,A-1038
+back_rest_subassembly,Screws,6,S-1111,A-1038
+back_cushion_subassembly,Foam Insert,1,S-1112,A-1011
+back_cushion_subassembly,Cushion Cover,1,S-1113,A-1011
+back_cushion_subassembly,Zipper,1,S-1114,A-1011
+back_cushion_subassembly,Batting,1,S-1115,A-1011
+side_panels_subassembly,Wood Panel,1,S-1116,A-1067
+side_panels_subassembly,Edge Banding,1,S-1117,A-1067
+side_panels_subassembly,Shelf Support Holes,10,S-1118,A-1067
+side_panels_subassembly,Mounting Brackets,2,S-1119,A-1067
+table_top_subassembly,Wood Panels,3,S-1120,A-1055
+table_top_subassembly,Edge Banding,1,S-1121,A-1055
+table_top_subassembly,Reinforcement Strips,2,S-1122,A-1055
+table_top_subassembly,Wood Glue,1,S-1123,A-1055
+slats_subassembly,Wooden Slat,1,S-1124,A-1051
+slats_subassembly,Fabric Sleeve,1,S-1125,A-1051
+cable_management_subassembly,Cable Tray,1,S-1126,A-1064
+cable_management_subassembly,Cable Clips,4,S-1127,A-1064
+cable_management_subassembly,Zip Ties,5,S-1128,A-1064
+cable_management_subassembly,Adhesive Pads,2,S-1129,A-1064
+shade_subassembly,Shade Frame,1,S-1130,A-1033
+shade_subassembly,Shade Fabric,1,S-1131,A-1033
+shade_subassembly,Diffuser,1,S-1132,A-1033
+shade_subassembly,Mounting Ring,1,S-1133,A-1033
+bed_slat_7,Wooden Slat,1,S-1134,A-1051
+bed_slat_7,Fabric Sleeve,1,S-1135,A-1051
+bed_slat_6,Wooden Slat,1,S-1136,A-1051
+bed_slat_6,Fabric Sleeve,1,S-1137,A-1051
+bed_slat_4,Wooden Slat,1,S-1138,A-1051
+bed_slat_4,Fabric Sleeve,1,S-1139,A-1051
+bed_slat_5,Wooden Slat,1,S-1140,A-1051
+bed_slat_5,Fabric Sleeve,1,S-1141,A-1051
+bed_slat_1,Wooden Slat,1,S-1142,A-1051
+bed_slat_1,Fabric Sleeve,1,S-1143,A-1051
+bed_slat_2,Wooden Slat,1,S-1144,A-1051
+bed_slat_2,Fabric Sleeve,1,S-1145,A-1051
+bed_slat_3,Wooden Slat,1,S-1146,A-1051
+bed_slat_3,Fabric Sleeve,1,S-1147,A-1051
+bed_slat_14,Wooden Slat,1,S-1148,A-1051
+bed_slat_14,Fabric Sleeve,1,S-1149,A-1051
+bed_slat_13,Wooden Slat,1,S-1150,A-1051
+bed_slat_13,Fabric Sleeve,1,S-1151,A-1051
+bed_slat_12,Wooden Slat,1,S-1152,A-1051
+bed_slat_12,Fabric Sleeve,1,S-1153,A-1051
+bed_slat_10,Wooden Slat,1,S-1154,A-1051
+bed_slat_10,Fabric Sleeve,1,S-1155,A-1051
+bed_slat_11,Wooden Slat,1,S-1156,A-1051
+bed_slat_11,Fabric Sleeve,1,S-1157,A-1051
+bed_slat_8,Wooden Slat,1,S-1158,A-1051
+bed_slat_8,Fabric Sleeve,1,S-1159,A-1051
+bed_slat_9,Wooden Slat,1,S-1160,A-1051
+bed_slat_9,Fabric Sleeve,1,S-1161,A-1051

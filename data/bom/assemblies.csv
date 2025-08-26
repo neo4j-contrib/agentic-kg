@@ -1,0 +1,65 @@
+assembly_name,component_name,quantity,assembly_id,product_id
+uppsala_sofa_assembly,Seat Cushion,3,A-1010,P-1003
+uppsala_sofa_assembly,Back Cushion,3,A-1011,P-1003
+uppsala_sofa_assembly,Frame,1,A-1012,P-1003
+uppsala_sofa_assembly,Armrest,2,A-1013,P-1003
+uppsala_sofa_assembly,Legs,4,A-1014,P-1003
+uppsala_sofa_assembly,Cover,1,A-1015,P-1003
+uppsala_sofa_assembly,Screws,24,A-1016,P-1003
+norrköping_nightstand_assembly,Top Panel,1,A-1017,P-1009
+norrköping_nightstand_assembly,Side Panels,2,A-1018,P-1009
+norrköping_nightstand_assembly,Bottom Panel,1,A-1019,P-1009
+norrköping_nightstand_assembly,Back Panel,1,A-1020,P-1009
+norrköping_nightstand_assembly,Drawer,1,A-1021,P-1009
+norrköping_nightstand_assembly,Drawer Handle,1,A-1022,P-1009
+norrköping_nightstand_assembly,Legs,4,A-1023,P-1009
+norrköping_nightstand_assembly,Screws,20,A-1024,P-1009
+norrköping_nightstand_assembly,Allen Key,1,A-1025,P-1009
+jönköping_coffee_table_assembly,Table Top,1,A-1026,P-1008
+jönköping_coffee_table_assembly,Legs,4,A-1027,P-1008
+jönköping_coffee_table_assembly,Support Beam,2,A-1028,P-1008
+jönköping_coffee_table_assembly,Screws,16,A-1029,P-1008
+jönköping_coffee_table_assembly,Allen Key,1,A-1030,P-1008
+örebro_lamp_assembly,Base,1,A-1031,P-1005
+örebro_lamp_assembly,Stem,1,A-1032,P-1005
+örebro_lamp_assembly,Shade,1,A-1033,P-1005
+örebro_lamp_assembly,Light Bulb Socket,1,A-1034,P-1005
+örebro_lamp_assembly,Screws,6,A-1035,P-1005
+örebro_lamp_assembly,Power Cord,1,A-1036,P-1005
+stockholm_chair_assembly,Seat,1,A-1037,P-1000
+stockholm_chair_assembly,Back Rest,1,A-1038,P-1000
+stockholm_chair_assembly,Legs,4,A-1039,P-1000
+stockholm_chair_assembly,Screws,12,A-1040,P-1000
+stockholm_chair_assembly,Allen Key,1,A-1041,P-1000
+västerås_bookshelf_assembly,Side Panels,2,A-1042,P-1004
+västerås_bookshelf_assembly,Shelves,5,A-1043,P-1004
+västerås_bookshelf_assembly,Back Panel,1,A-1044,P-1004
+västerås_bookshelf_assembly,Screws,30,A-1045,P-1004
+västerås_bookshelf_assembly,Shelf Pins,20,A-1046,P-1004
+västerås_bookshelf_assembly,Allen Key,1,A-1047,P-1004
+linköping_bed_assembly,Headboard,1,A-1048,P-1006
+linköping_bed_assembly,Footboard,1,A-1049,P-1006
+linköping_bed_assembly,Side Rails,2,A-1050,P-1006
+linköping_bed_assembly,Slats,14,A-1051,P-1006
+linköping_bed_assembly,Center Support,1,A-1052,P-1006
+linköping_bed_assembly,Screws,24,A-1053,P-1006
+linköping_bed_assembly,Allen Key,1,A-1054,P-1006
+gothenburg_table_assembly,Table Top,1,A-1055,P-1001
+gothenburg_table_assembly,Legs,4,A-1056,P-1001
+gothenburg_table_assembly,Support Beam,2,A-1057,P-1001
+gothenburg_table_assembly,Screws,16,A-1058,P-1001
+gothenburg_table_assembly,Allen Key,1,A-1059,P-1001
+malmö_desk_assembly,Desktop,1,A-1060,P-1002
+malmö_desk_assembly,Legs,4,A-1061,P-1002
+malmö_desk_assembly,Drawer Unit,1,A-1062,P-1002
+malmö_desk_assembly,Screws,20,A-1063,P-1002
+malmö_desk_assembly,Cable Management,1,A-1064,P-1002
+malmö_desk_assembly,Allen Key,1,A-1065,P-1002
+helsingborg_dresser_assembly,Top Panel,1,A-1066,P-1007
+helsingborg_dresser_assembly,Side Panels,2,A-1067,P-1007
+helsingborg_dresser_assembly,Bottom Panel,1,A-1068,P-1007
+helsingborg_dresser_assembly,Back Panel,1,A-1069,P-1007
+helsingborg_dresser_assembly,Drawers,4,A-1070,P-1007
+helsingborg_dresser_assembly,Drawer Handles,4,A-1071,P-1007
+helsingborg_dresser_assembly,Screws,36,A-1072,P-1007
+helsingborg_dresser_assembly,Allen Key,1,A-1073,P-1007

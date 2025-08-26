@@ -1,0 +1,21 @@
+supplier_id,name,specialty,city,country,website,contact_email
+SUP-001,Nordic Wood Industries,Wood,Stockholm,Sweden,www.nordicwood.se,info@nordicwood.se
+SUP-002,Shanghai Metal Corp,Metal,Shanghai,China,www.shanghaimetal.com,sales@shanghaimetal.com
+SUP-003,Bangalore Textiles Ltd,Fabric,Bangalore,India,www.bangaloretextiles.in,contact@bangaloretextiles.in
+SUP-004,German Precision Fasteners,Fasteners,Munich,Germany,www.germanfasteners.de,info@germanfasteners.de
+SUP-005,Brazilian Foam Solutions,Foam,São Paulo,Brazil,www.brazilfoam.com.br,sales@brazilfoam.com.br
+SUP-006,American Hardware Inc,Hardware,Chicago,USA,www.americanhardware.com,support@americanhardware.com
+SUP-007,Tokyo Electronics Co,Electronics,Tokyo,Japan,www.tokyoelectronics.jp,info@tokyoelectronics.jp
+SUP-008,Sydney Glass Works,Glass,Sydney,Australia,www.sydneyglass.com.au,orders@sydneyglass.com.au
+SUP-009,Cape Town Adhesives,Adhesives,Cape Town,South Africa,www.capetownadhesives.co.za,sales@capetownadhesives.co.za
+SUP-010,Dubai Packaging Solutions,Packaging,Dubai,UAE,www.dubaipackaging.ae,info@dubaipackaging.ae
+SUP-011,Canadian Timber Products,Wood,Vancouver,Canada,www.canadiantimber.ca,sales@canadiantimber.ca
+SUP-012,Korean Metal Works,Metal,Seoul,South Korea,www.koreanmetal.kr,info@koreanmetal.kr
+SUP-013,Italian Textile Design,Fabric,Milan,Italy,www.italiantextile.it,design@italiantextile.it
+SUP-014,Taiwan Precision Parts,Fasteners,Taipei,Taiwan,www.taiwanparts.tw,orders@taiwanparts.tw
+SUP-015,UK Foam Manufacturers,Foam,Manchester,United Kingdom,www.ukfoam.co.uk,contact@ukfoam.co.uk
+SUP-016,Mexican Hardware Solutions,Hardware,Mexico City,Mexico,www.mexhardware.mx,ventas@mexhardware.mx
+SUP-017,French Electronics SA,Electronics,Paris,France,www.frenchelectronics.fr,info@frenchelectronics.fr
+SUP-018,Spanish Glass Industries,Glass,Barcelona,Spain,www.spanishglass.es,info@spanishglass.es
+SUP-019,Singapore Adhesive Tech,Adhesives,Singapore,Singapore,www.singaporeadhesive.sg,tech@singaporeadhesive.sg
+SUP-020,Polish Packaging Group,Packaging,Warsaw,Poland,www.polishpackaging.pl,contact@polishpackaging.pl

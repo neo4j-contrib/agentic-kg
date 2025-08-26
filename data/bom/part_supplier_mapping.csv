@@ -1,0 +1,177 @@
+part_id,part_name,supplier_id,supplier_name,lead_time_days,unit_cost,minimum_order_quantity,preferred_supplier
+S-1074,Drawer Front,SUP-001,nordic Wood Industries,8,$42.73,14,yes
+S-1074,Drawer Front,SUP-011,Canadian Timber Products,27,$34.32,66,no
+S-1075,Drawer Bottom,SUP-001,nordic Wood Industries,9,$36.77,80,yes
+S-1075,Drawer Bottom,SUP-011,Canadian Timber Products,29,$39.49,38,no
+S-1076,Drawer Sides,SUP-011,Canadian Timber Products,14,$16.07,11,no
+S-1076,Drawer Sides,SUP-001,nordic Wood Industries,22,$19.51,58,yes
+S-1077,Drawer Back,SUP-001,nordic Wood Industries,9,$11.55,85,yes
+S-1077,Drawer Back,SUP-011,Canadian Timber Products,10,$16.79,94,no
+S-1078,Drawer Rails,SUP-012,Korean Metal Works,29,$36.06,92,no
+S-1078,Drawer Rails,SUP-002,Shanghai Metal Corp,26,$34.62,91,yes
+S-1079,Drawer Handle,SUP-012,Korean Metal Works,12,$39.15,75,no
+S-1079,Drawer Handle,SUP-002,Shanghai Metal Corp,9,$2.22,47,yes
+S-1080,Screws,SUP-014,Taiwan Precision Parts,7,$24.58,11,no
+S-1080,Screws,SUP-004,German Precision Fasteners,25,$40.33,66,yes
+S-1081,Drawer Front,SUP-011,Canadian Timber Products,8,$46.31,65,no
+S-1081,Drawer Front,SUP-001,nordic Wood Industries,12,$34.32,100,yes
+S-1082,Drawer Bottom,SUP-001,nordic Wood Industries,9,$0.57,86,yes
+S-1082,Drawer Bottom,SUP-011,Canadian Timber Products,11,$10.57,22,no
+S-1083,Drawer Sides,SUP-011,Canadian Timber Products,12,$36.78,74,no
+S-1083,Drawer Sides,SUP-001,nordic Wood Industries,10,$6.35,19,yes
+S-1084,Drawer Back,SUP-011,Canadian Timber Products,21,$44.44,84,no
+S-1084,Drawer Back,SUP-001,nordic Wood Industries,4,$0.75,87,yes
+S-1085,Drawer Rails,SUP-012,Korean Metal Works,17,$47.14,66,no
+S-1085,Drawer Rails,SUP-002,Shanghai Metal Corp,26,$40.82,62,yes
+S-1086,Screws,SUP-004,German Precision Fasteners,15,$0.92,27,yes
+S-1086,Screws,SUP-014,Taiwan Precision Parts,30,$23.66,49,no
+S-1087,Headboard Panel,SUP-001,nordic Wood Industries,7,$43.62,64,yes
+S-1087,Headboard Panel,SUP-011,Canadian Timber Products,7,$15.13,58,no
+S-1088,Headboard Frame,SUP-012,Korean Metal Works,20,$20.88,78,no
+S-1088,Headboard Frame,SUP-002,Shanghai Metal Corp,7,$29.65,49,yes
+S-1089,Decorative Trim,SUP-001,nordic Wood Industries,16,$35.57,38,yes
+S-1089,Decorative Trim,SUP-011,Canadian Timber Products,19,$46.52,53,no
+S-1090,Mounting Brackets,SUP-012,Korean Metal Works,29,$4.16,76,no
+S-1090,Mounting Brackets,SUP-002,Shanghai Metal Corp,21,$9.4,24,yes
+S-1091,Screws,SUP-004,German Precision Fasteners,15,$27.97,42,yes
+S-1091,Screws,SUP-014,Taiwan Precision Parts,29,$29.78,32,no
+S-1092,Seat Base,SUP-011,Canadian Timber Products,12,$31.31,92,no
+S-1092,Seat Base,SUP-001,nordic Wood Industries,20,$6.54,22,yes
+S-1093,Foam Padding,SUP-005,Brazilian Foam Solutions,7,$7.43,100,yes
+S-1093,Foam Padding,SUP-015,UK Foam Manufacturers,5,$40.06,45,no
+S-1094,Fabric Cover,SUP-003,Bangalore Textiles Ltd,25,$1.61,33,yes
+S-1094,Fabric Cover,SUP-013,Italian Textile Design,16,$8.64,63,no
+S-1095,Mounting Brackets,SUP-002,Shanghai Metal Corp,15,$39.89,98,yes
+S-1095,Mounting Brackets,SUP-012,Korean Metal Works,11,$9.71,54,no
+S-1096,Screws,SUP-014,Taiwan Precision Parts,25,$29.43,89,no
+S-1096,Screws,SUP-004,German Precision Fasteners,9,$5.74,16,yes
+S-1097,Foam Insert,SUP-005,Brazilian Foam Solutions,9,$22.06,71,yes
+S-1097,Foam Insert,SUP-015,UK Foam Manufacturers,16,$10.71,11,no
+S-1098,Cushion Cover,SUP-013,Italian Textile Design,28,$8.58,62,no
+S-1098,Cushion Cover,SUP-003,Bangalore Textiles Ltd,16,$21.88,46,yes
+S-1099,Zipper,SUP-016,Mexican Hardware Solutions,19,$23.33,25,no
+S-1099,Zipper,SUP-006,American Hardware Inc,18,$18.64,54,yes
+S-1100,Batting,SUP-003,Bangalore Textiles Ltd,15,$26.03,67,yes
+S-1100,Batting,SUP-013,Italian Textile Design,11,$10.57,73,no
+S-1101,Base Frame,SUP-002,Shanghai Metal Corp,12,$41.42,10,yes
+S-1101,Base Frame,SUP-012,Korean Metal Works,29,$46.13,98,no
+S-1102,Back Frame,SUP-012,Korean Metal Works,26,$37.96,22,no
+S-1102,Back Frame,SUP-002,Shanghai Metal Corp,9,$41.48,19,yes
+S-1103,Side Frames,SUP-012,Korean Metal Works,10,$42.68,75,no
+S-1103,Side Frames,SUP-002,Shanghai Metal Corp,8,$4.41,30,yes
+S-1104,Support Slats,SUP-011,Canadian Timber Products,26,$8.8,39,no
+S-1104,Support Slats,SUP-001,nordic Wood Industries,20,$30.33,88,yes
+S-1105,Corner Brackets,SUP-012,Korean Metal Works,5,$20.63,61,no
+S-1105,Corner Brackets,SUP-002,Shanghai Metal Corp,21,$19.78,28,yes
+S-1106,Screws,SUP-004,German Precision Fasteners,21,$14.0,32,yes
+S-1106,Screws,SUP-014,Taiwan Precision Parts,21,$33.52,96,no
+S-1107,Back Panel,SUP-001,nordic Wood Industries,11,$15.02,93,yes
+S-1107,Back Panel,SUP-011,Canadian Timber Products,18,$44.02,60,no
+S-1108,Foam Padding,SUP-005,Brazilian Foam Solutions,24,$14.41,50,yes
+S-1108,Foam Padding,SUP-015,UK Foam Manufacturers,12,$11.09,32,no
+S-1109,Fabric Cover,SUP-013,Italian Textile Design,17,$23.52,49,no
+S-1109,Fabric Cover,SUP-003,Bangalore Textiles Ltd,5,$11.49,29,yes
+S-1110,Support Frame,SUP-012,Korean Metal Works,11,$15.77,66,no
+S-1110,Support Frame,SUP-002,Shanghai Metal Corp,20,$15.96,74,yes
+S-1111,Screws,SUP-004,German Precision Fasteners,9,$41.81,34,yes
+S-1111,Screws,SUP-014,Taiwan Precision Parts,30,$8.14,14,no
+S-1112,Foam Insert,SUP-015,UK Foam Manufacturers,18,$7.01,59,no
+S-1112,Foam Insert,SUP-005,Brazilian Foam Solutions,19,$24.71,99,yes
+S-1113,Cushion Cover,SUP-013,Italian Textile Design,27,$11.02,54,no
+S-1113,Cushion Cover,SUP-003,Bangalore Textiles Ltd,18,$2.9,21,yes
+S-1114,Zipper,SUP-016,Mexican Hardware Solutions,24,$3.16,56,no
+S-1114,Zipper,SUP-006,American Hardware Inc,18,$23.78,24,yes
+S-1115,Batting,SUP-003,Bangalore Textiles Ltd,25,$32.05,58,yes
+S-1115,Batting,SUP-013,Italian Textile Design,24,$35.19,73,no
+S-1116,Wood Panel,SUP-011,Canadian Timber Products,19,$5.85,48,no
+S-1116,Wood Panel,SUP-001,nordic Wood Industries,13,$44.66,74,yes
+S-1117,Edge Banding,SUP-001,nordic Wood Industries,19,$11.9,73,yes
+S-1117,Edge Banding,SUP-011,Canadian Timber Products,17,$36.21,57,no
+S-1118,Shelf Support Holes,SUP-016,Mexican Hardware Solutions,10,$46.47,14,no
+S-1118,Shelf Support Holes,SUP-006,American Hardware Inc,11,$23.44,62,yes
+S-1119,Mounting Brackets,SUP-012,Korean Metal Works,9,$11.59,27,no
+S-1119,Mounting Brackets,SUP-002,Shanghai Metal Corp,12,$8.55,49,yes
+S-1120,Wood Panels,SUP-016,Mexican Hardware Solutions,28,$15.19,97,no
+S-1120,Wood Panels,SUP-006,American Hardware Inc,5,$39.17,11,yes
+S-1121,Edge Banding,SUP-011,Canadian Timber Products,18,$32.45,46,no
+S-1121,Edge Banding,SUP-001,nordic Wood Industries,8,$31.74,12,yes
+S-1122,Reinforcement Strips,SUP-001,nordic Wood Industries,7,$29.67,38,yes
+S-1122,Reinforcement Strips,SUP-011,Canadian Timber Products,17,$27.06,32,no
+S-1123,Wood Glue,SUP-019,Singapore Adhesive Tech,17,$41.28,90,no
+S-1123,Wood Glue,SUP-009,Cape Town Adhesives,17,$44.74,75,yes
+S-1124,Wooden Slat,SUP-001,nordic Wood Industries,23,$26.18,30,yes
+S-1124,Wooden Slat,SUP-011,Canadian Timber Products,28,$34.02,95,no
+S-1125,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,18,$37.5,28,yes
+S-1125,Fabric Sleeve,SUP-013,Italian Textile Design,17,$20.99,92,no
+S-1126,Cable Tray,SUP-012,Korean Metal Works,6,$39.41,39,no
+S-1126,Cable Tray,SUP-002,Shanghai Metal Corp,16,$44.34,83,yes
+S-1127,Cable Clips,SUP-006,American Hardware Inc,16,$30.92,95,yes
+S-1127,Cable Clips,SUP-016,Mexican Hardware Solutions,28,$46.39,99,no
+S-1128,Zip Ties,SUP-006,American Hardware Inc,23,$38.37,27,yes
+S-1128,Zip Ties,SUP-016,Mexican Hardware Solutions,9,$23.93,21,no
+S-1129,Adhesive Pads,SUP-019,Singapore Adhesive Tech,30,$3.04,17,no
+S-1129,Adhesive Pads,SUP-009,Cape Town Adhesives,7,$8.65,75,yes
+S-1130,Shade Frame,SUP-012,Korean Metal Works,10,$31.23,85,no
+S-1130,Shade Frame,SUP-002,Shanghai Metal Corp,22,$18.23,87,yes
+S-1131,Shade Fabric,SUP-003,Bangalore Textiles Ltd,18,$9.08,86,yes
+S-1131,Shade Fabric,SUP-013,Italian Textile Design,7,$43.95,53,no
+S-1132,Diffuser,SUP-018,Spanish Glass Industries,6,$43.01,97,no
+S-1132,Diffuser,SUP-008,Sydney Glass Works,27,$6.63,48,yes
+S-1133,Mounting Ring,SUP-012,Korean Metal Works,16,$17.19,95,no
+S-1133,Mounting Ring,SUP-002,Shanghai Metal Corp,27,$28.97,27,yes
+S-1134,Wooden Slat,SUP-001,nordic Wood Industries,7,$24.06,71,yes
+S-1134,Wooden Slat,SUP-011,Canadian Timber Products,22,$10.73,13,no
+S-1135,Fabric Sleeve,SUP-013,Italian Textile Design,16,$5.9,79,no
+S-1135,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,10,$44.27,21,yes
+S-1136,Wooden Slat,SUP-001,nordic Wood Industries,19,$5.06,16,yes
+S-1136,Wooden Slat,SUP-011,Canadian Timber Products,6,$32.61,17,no
+S-1137,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,6,$36.36,47,yes
+S-1137,Fabric Sleeve,SUP-013,Italian Textile Design,25,$13.04,84,no
+S-1138,Wooden Slat,SUP-001,nordic Wood Industries,24,$13.69,50,yes
+S-1138,Wooden Slat,SUP-011,Canadian Timber Products,10,$31.68,62,no
+S-1139,Fabric Sleeve,SUP-013,Italian Textile Design,22,$2.6,86,no
+S-1139,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,9,$9.78,72,yes
+S-1140,Wooden Slat,SUP-001,nordic Wood Industries,19,$31.94,89,yes
+S-1140,Wooden Slat,SUP-011,Canadian Timber Products,12,$9.85,62,no
+S-1141,Fabric Sleeve,SUP-013,Italian Textile Design,7,$6.42,64,no
+S-1141,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,7,$20.43,90,yes
+S-1142,Wooden Slat,SUP-001,nordic Wood Industries,11,$31.31,78,yes
+S-1142,Wooden Slat,SUP-011,Canadian Timber Products,6,$37.63,39,no
+S-1143,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,6,$8.07,99,yes
+S-1143,Fabric Sleeve,SUP-013,Italian Textile Design,21,$30.38,47,no
+S-1144,Wooden Slat,SUP-001,nordic Wood Industries,25,$25.25,92,yes
+S-1144,Wooden Slat,SUP-011,Canadian Timber Products,17,$2.51,28,no
+S-1145,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,26,$30.5,98,yes
+S-1145,Fabric Sleeve,SUP-013,Italian Textile Design,6,$36.04,76,no
+S-1146,Wooden Slat,SUP-011,Canadian Timber Products,26,$7.58,31,no
+S-1146,Wooden Slat,SUP-001,nordic Wood Industries,19,$35.7,91,yes
+S-1147,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,19,$27.52,74,yes
+S-1147,Fabric Sleeve,SUP-013,Italian Textile Design,15,$23.95,74,no
+S-1148,Wooden Slat,SUP-011,Canadian Timber Products,11,$20.1,100,no
+S-1148,Wooden Slat,SUP-001,nordic Wood Industries,22,$10.99,42,yes
+S-1149,Fabric Sleeve,SUP-013,Italian Textile Design,11,$36.63,85,no
+S-1149,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,9,$39.49,77,yes
+S-1150,Wooden Slat,SUP-001,nordic Wood Industries,16,$25.29,47,yes
+S-1150,Wooden Slat,SUP-011,Canadian Timber Products,29,$17.38,78,no
+S-1151,Fabric Sleeve,SUP-013,Italian Textile Design,28,$38.93,67,no
+S-1151,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,9,$13.55,50,yes
+S-1152,Wooden Slat,SUP-001,nordic Wood Industries,21,$31.45,29,yes
+S-1152,Wooden Slat,SUP-011,Canadian Timber Products,16,$49.27,14,no
+S-1153,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,12,$39.27,31,yes
+S-1153,Fabric Sleeve,SUP-013,Italian Textile Design,15,$6.95,81,no
+S-1154,Wooden Slat,SUP-011,Canadian Timber Products,17,$43.9,64,no
+S-1154,Wooden Slat,SUP-001,nordic Wood Industries,10,$19.85,56,yes
+S-1155,Fabric Sleeve,SUP-013,Italian Textile Design,13,$49.15,46,no
+S-1155,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,9,$20.02,23,yes
+S-1156,Wooden Slat,SUP-001,nordic Wood Industries,18,$28.57,31,yes
+S-1156,Wooden Slat,SUP-011,Canadian Timber Products,27,$25.89,56,no
+S-1157,Fabric Sleeve,SUP-013,Italian Textile Design,16,$17.24,19,no
+S-1157,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,25,$34.57,44,yes
+S-1158,Wooden Slat,SUP-011,Canadian Timber Products,25,$5.92,25,no
+S-1158,Wooden Slat,SUP-001,nordic Wood Industries,16,$10.09,35,yes
+S-1159,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,18,$38.7,63,yes
+S-1159,Fabric Sleeve,SUP-013,Italian Textile Design,9,$2.3,43,no
+S-1160,Wooden Slat,SUP-011,Canadian Timber Products,30,$37.77,18,no
+S-1160,Wooden Slat,SUP-001,nordic Wood Industries,15,$35.7,31,yes
+S-1161,Fabric Sleeve,SUP-003,Bangalore Textiles Ltd,20,$21.56,92,yes
+S-1161,Fabric Sleeve,SUP-013,Italian Textile Design,15,$41.38,27,no

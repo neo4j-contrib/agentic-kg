@@ -36,6 +36,8 @@ uv sync
 The local Neo4j database must have access to files in the `import` directory. If you're unsure where that is,
 you can run the `multi_agent` and ask it "Where is the import directory?" Copy the sample files there.
 
+There are some example data files under `data`.
+
 ## Run the agentic system
 
 Google ADK include a great devtool that can launch a web interface for the agent.
