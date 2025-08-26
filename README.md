@@ -14,7 +14,7 @@ This project is:
 
 These steps assume you have `uv` installed and Python 3.12 available.
 
-- Install uv: see `https://docs.astral.sh/uv/getting-started/installation/`
+- Install uv: see [uv getting started](https://docs.astral.sh/uv/getting-started/installation/)
 
 ### 1) Initialize the project
 
@@ -79,7 +79,14 @@ uv run pytest -q -m integration
 
 ## Differences from the deeplearning course
 
-- context state values have a "status" field to indicate "draft", "proposal", "approved", "rejected". In the course notebooks, these states were separate keys for each value. For example, the course used "perceived_user_goal" and "approved_user_goal" keys, which have been combined into a single "user_intent" key with a "status" field.
+- many agents use a special `finished` tool to signal that they're done
+
+## TODO
+
+- [ ] add the unstructured data import workflow
+- [ ] add multiple GraphRAG tools
+- [ ] add hypothetical questions to user goal, which should be used to validate the constructed graph and guide GraphRAG retrievers
+
 
 ## Special Thanks
 
