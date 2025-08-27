@@ -1,4 +1,4 @@
-from typing import Any, Optional, Dict, List
+from typing import Any, Optional, Dict
 
 from google.adk.tools import ToolContext
 
@@ -33,7 +33,7 @@ def get_physical_schema() -> Dict[str, Any]:
     """
     driver = graphdb.get_driver()
     database_name = graphdb.get_config().database
-    
+
     try:
         schema = get_structured_schema(driver, database=database_name)
         return tool_success("schema", schema)
@@ -54,7 +54,7 @@ def read_neo4j_cypher(
         A list of dictionaries containing the results of the query.
         Returns an empty list "[]" if no results are found.
 
-    """    
+    """
     if is_write_query(query):
         return tool_error("Only MATCH queries are allowed for read-query")
 
@@ -80,8 +80,8 @@ def write_neo4j_cypher(
     return results
 
 def reset_neo4j_data() -> Dict[str, Any]:
-    """Resets the neo4j graph database by removing all data, 
-    indexes and constraints. 
+    """Resets the neo4j graph database by removing all data,
+    indexes and constraints.
     Use with caution! Confirm with the user
     that they know this will completely reset the database.
 
@@ -135,16 +135,16 @@ def create_uniqueness_constraint(
     Returns:
         A dictionary with a status key ('success' or 'error').
         On error, includes an 'error_message' key.
-    """    
+    """
     from agentic_kg.common.neo4j_for_adk import is_symbol
-    
+
     # Validate input to prevent injection attacks
     if not is_symbol(label):
         return tool_error(f"Invalid label: '{label}'. Labels cannot contain spaces or be Cypher keywords.")
-        
+
     if not is_symbol(unique_property_key):
         return tool_error(f"Invalid property key: '{unique_property_key}'. Property keys cannot contain spaces or be Cypher keywords.")
-    
+
     # Use string formatting since Neo4j doesn't support parameterization of labels and property keys when creating a constraint
     constraint_name = f"{label}_{unique_property_key}_constraint"
     query = f"""CREATE CONSTRAINT {constraint_name} IF NOT EXISTS
@@ -155,7 +155,7 @@ def create_uniqueness_constraint(
 
 def merge_node_into_graph(label_name:str, id_property_name:str, properties: Dict[str, Any], tool_context:ToolContext) -> Dict[str, Any]:
     """Merges a node into the graph. The label_name/id_property_name pair will
-    be used for the MERGE pattern to ensure uniqueness. 
+    be used for the MERGE pattern to ensure uniqueness.
     The properties dictionary will be used in a SET to set all properties of the node.
 
     Args:

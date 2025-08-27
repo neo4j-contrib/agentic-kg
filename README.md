@@ -9,6 +9,7 @@ Features:
 - meant as a reference implementation for learning and experimentation, not a production tool
 - built on top of [Google ADK](https://github.com/google/agent-driver-kit)
 - interacts with a local Neo4j database
+- rich with opportunities for improvement :)
 
 ## Setup
 
@@ -52,7 +53,7 @@ This will discover the available "coordinators" or top-level agents. There are t
 2. `multi_agent` - has a hiearchy of specialized sub-agents to collaborate with a user through multiple phases
   - this coordinator can answer basic questions about the environment, like "Is Neo4j ready?" and "Where is the import directory?"
   - `user_intent_agent` - ideates on the kind of graph and purpose of the graph
-  - `file_suggestion_agent` - recommends files to use as input 
+  - `file_suggestion_agent` - recommends files to use as input
   - `schema_proposal_agent` - proposes a construction plan for making a graph from the files which supports the user goal
   - `graph_construction_agent` - does the work of building the graph
 
@@ -84,8 +85,10 @@ uv run pytest -q -m integration
 ## TODO
 
 - [ ] add the unstructured data import workflow
-- [ ] add handling of field types
+- [ ] evals! evals! evals!
 - [ ] add multiple GraphRAG tools
+- [ ] add handling of field types
+- [ ] improve `llm_catalog` model selection
 - [ ] add hypothetical questions to user goal, which should be used to validate the constructed graph and guide GraphRAG retrievers
 
 
@@ -96,6 +99,6 @@ Special thanks to everyone who worked on the deeplearning course and helped deve
 Particular shout-outs to:
 - [Hawraa Salami of deeplearning.ai](https://www.linkedin.com/in/hawraa-salami/) for her guidance and support in developing the course
 - [Andrew Ng of deeplearning.ai](https://www.linkedin.com/in/andrewyng/) for raising everyone's game with Deeplearning.ai
-- [Adam Cowley of Neo4j](https://www.linkedin.com/in/adamcowley/) for his inspiring work on [GraphAcademy](https://graphacademy.neo4j.com/) 
+- [Adam Cowley of Neo4j](https://www.linkedin.com/in/adamcowley/) for his inspiring work on [GraphAcademy](https://graphacademy.neo4j.com/)
 - [Martin O'Hanlon](https://www.linkedin.com/in/martinohanlon/) for his clear, methodical and friendly approach to teaching
-- [Neo4j](https://neo4j.com/) for letting me work on this project :) 
+- [Neo4j](https://neo4j.com/) for letting me work on this project :)

@@ -23,6 +23,7 @@ MODEL_GPT_4O_MINI = "openai/gpt-4o-mini"
 MODEL_GPT_5_MINI = "openai/gpt-5-mini"
 
 LM_STUDIO_QWEN = "hosted_vllm/qwen2.5-7b-instruct"
+LM_STUDIO_GPT_OSS = "hosted_vllm/openai/gpt-oss-20b"
 LM_STUDIO_BASE_URL = "http://localhost:1234/v1"
 
 OLLAMA_MODEL = "openai/qwen3:4b"
@@ -39,7 +40,7 @@ _llm_instance: LiteLlm | None = None
 
 def get_llm(kind: LlmKind = LlmKind.reasoning) -> LiteLlm:
     """Lazily construct and return a kind of LiteLlm instance.
-    
+
     Args:
         kind: The kind of LiteLlm to construct.
     """
@@ -51,4 +52,8 @@ def get_llm(kind: LlmKind = LlmKind.reasoning) -> LiteLlm:
             model=MODEL_GPT_4O_MINI,
             # api_base=OLLAMA_BASE_URL,
         )
+        # _llm_instance = LiteLlm(
+        #     model=LM_STUDIO_GPT_OSS,
+        #     api_base=LM_STUDIO_BASE_URL,
+        # )
     return _llm_instance
