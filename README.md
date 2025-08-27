@@ -2,11 +2,11 @@
 
 This is a companion project to the [deeplearning.ai short course on agentic knowledge graph construction](https://learn.deeplearning.ai/courses/agentic-knowledge-graph-construction/).
 
-The course is notebook-based, walking through the key concepts of building a multi-agent system. This is that system.
+The course is notebook-based, walking through the key concepts of building a multi-agent system. This project is that system.
 
-This project is:
+Features:
 - a multi-agent system for constructing knowledge graphs
-- meant as a reference implementation, not a production tool
+- meant as a reference implementation for learning and experimentation, not a production tool
 - built on top of [Google ADK](https://github.com/google/agent-driver-kit)
 - interacts with a local Neo4j database
 
@@ -84,6 +84,7 @@ uv run pytest -q -m integration
 ## TODO
 
 - [ ] add the unstructured data import workflow
+- [ ] add handling of field types
 - [ ] add multiple GraphRAG tools
 - [ ] add hypothetical questions to user goal, which should be used to validate the constructed graph and guide GraphRAG retrievers
 
