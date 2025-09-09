@@ -206,7 +206,7 @@ def get_neo4j_import_dir():
     graphdb = get_graphdb() # grab the singleton instance
     results = graphdb.send_query("""
         Call dbms.listConfig() YIELD name, value
-        WHERE name CONTAINS 'server.directories.import'
+        WHERE name CONTAINS 'directories.import'
         RETURN value as import_dir
         """)
     if results["status"] == "success":
