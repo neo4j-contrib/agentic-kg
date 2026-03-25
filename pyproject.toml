@@ -10,7 +10,7 @@ requires-python = ">=3.12"
 dependencies = [
     "clevercsv[full]>=0.8.3",
     "google-adk>=1.10.0",
-    "litellm>=1.75.5.post1",
+    "litellm>=1.75.5.post1,<1.82.7",
     "neo4j>=5.28.2",
     "neo4j-graphrag>=1.9.1",
     "pydantic>=2.11.7",
